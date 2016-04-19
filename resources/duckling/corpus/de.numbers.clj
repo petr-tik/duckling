@@ -43,10 +43,20 @@
  "zwölf"
  (number 12)
 
+ "sechzehn"
+ (number 16)
+
+ "siebzehn"
+ (number 17)
+
  "zwanzig"
  (number 20)
 
- "sechszig"
+ "dreissig"
+ "dreiβig"
+ (number 30)
+
+ "sechzig"
  (number 60)
 
  "siebzig"
