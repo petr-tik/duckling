@@ -45,6 +45,12 @@
                    "en.finance"
                    "en.communication"
                    ]}
+ :de$core {:corpus [
+                    "de.numbers"
+                    ]
+           :rules [
+                   "de.numbers"
+]}
  :et$core {:corpus [
                     "et.numbers"
                     ]
