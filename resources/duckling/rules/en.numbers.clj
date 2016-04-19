@@ -59,8 +59,7 @@
   #"(?i)(twenty|thirty|fou?rty|fifty|sixty|seventy|eighty|ninety)"
   {:dim :number
    :integer true
-   :value (get {"twenty" 20 "thirty" 30 "fourty" 40 "forty" 40 "fifty" 50 "sixty" 60
-              "seventy" 70 "eighty" 80 "ninety" 90}
+   :value (get {"twenty" 20 "thirty" 30 "fourty" 40 "forty" 40 "fifty" 50 "sixty" 60 "seventy" 70 "eighty" 80 "ninety" 90}
              (-> %1 :groups first .toLowerCase))
    :grain 1}
 
