@@ -50,7 +50,7 @@
                     ]
            :rules [
                    "de.numbers"
-]}
+                   ]}
  :et$core {:corpus [
                     "et.numbers"
                     ]

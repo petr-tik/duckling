@@ -2,6 +2,10 @@
 ; context map
  {}
  
+ "0"
+ "null"
+ (number 0)
+
  "1"
  "eins"
  (number 1)
