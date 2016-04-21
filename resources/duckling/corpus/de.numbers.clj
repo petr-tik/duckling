@@ -1,12 +1,18 @@
 (
 ; context map
  {}
- 
+
+;;
+;; Integers
+;; 
+
  "0"
  "null"
  (number 0)
 
  "1"
+ "eine"
+ "einer"
  "eins"
  (number 1)
 
@@ -92,5 +98,27 @@
  "100"
  "hundert"
  (number 100)
+
+;;
+;; Ordinal numbers
+;;
+
+ "erste"
+ "erster"
+ "erstes"
+ (ordinal 1)
+
+ "dritte"
+ "dritter"
+ "drittes"
+ (ordinal 3)
+
+ "siebtes"
+ "siebter"
+ (ordinal 7)
+
+ "achtes"
+ "achter"
+ (ordinal 8)
 
 )
