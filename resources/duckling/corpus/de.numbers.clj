@@ -70,6 +70,10 @@
  "zwölf"
  (number 12)
 
+ "13"
+ "dreizehn"
+ (number 13)
+
  "16"
  "sechzehn"
  (number 16)
@@ -82,10 +86,18 @@
  "zwanzig"
  (number 20)
 
+ "28"
+ "achtundzwanzig"
+ (number 28)
+
  "30"
  "dreissig"
  "dreiβig"
  (number 30)
+
+ "40"
+ "vierzig"
+ (number 40)
 
  "60"
  "sechzig"
@@ -119,6 +131,4 @@
 
  "achtes"
  "achter"
- (ordinal 8)
-
-)
+ (ordinal 8))
