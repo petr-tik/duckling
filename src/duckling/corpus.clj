@@ -54,7 +54,6 @@
                   [value (:value token)])))
 
 (defn ordinal
-  "Return an anonymous func (duckling pattern) checking that :dim of token is :ordinal and assigning value"  
   [value]
   (fn [_ token] (when-not
                   (and
